@@ -1,4 +1,4 @@
-package com.java.redis.demo;
+package com.java.redis.demo.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
